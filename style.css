@@ -1,0 +1,136 @@
+
+body{
+    margin: 0px;
+    font-family: 'Rubik', sans-serif;
+    width: 95%;
+
+
+
+}
+
+.hading{
+    font-size: 40px;
+    font-family: 'Krona One', sans-serif;
+     font-weight: 300;
+    
+}
+.name-highlight{ color: tomato;
+}
+
+.half{ 
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+
+p{
+    width: 60%;
+    
+}
+.half img{width: 100%;
+         margin-left: 20%;
+
+}
+
+
+section{
+    background-image : url("images/header-bg.png");
+    background-size: cover;
+    height: 500px;
+ 
+     }
+    .ancor {
+        text-decoration: none;
+        background-image: linear-gradient(45deg, rgb(38, 201, 147), rgb(24, 152, 202));
+        padding: 7px 25px;
+        color: white;
+        border-radius: 6px;
+        font-weight: 700;
+        }
+        .size{
+            font-size: 30px;
+        }
+        .dream{
+            background-image: url(images/biography-bg.png);
+            background-size: cover;
+            
+            
+            
+            
+        }
+        .pad{
+         padding-left: 5%;
+        }
+        .only-one{
+            text-align: center;
+            color: black;
+            font-weight: 700;
+        }
+        .three img{
+            background-image: url(images/footer-bg.png);
+            background-size: cover;
+            margin-left: 30px;
+            padding-top: 50px;
+            width: 30%;
+            display: inline-block
+            
+            
+        }
+        .purpal{ color: rgb(187, 146, 11);}
+        h4{
+            color: red;
+        }
+        .single{ 
+            box-shadow: 10px 10px 40px gray;
+            background-color: white;
+        }
+        #unic{
+           
+        border-left: 7px solid;
+        border-image:linear-gradient(180deg, rgb(50, 228, 50), rgb(30, 127, 165)) ;
+        border-image-slice: 1;
+     }
+     #over-unic{
+         border-left: 7px solid;
+         border-image: linear-gradient(180deg, red, black);
+         border-image-slice: 1;
+     }
+     .one{
+         padding-left: 20px;
+         padding-bottom: 100px;
+     }
+     .only-tow{ background-image: linear-gradient(45deg, rgb(187, 121, 0), gold ) ; 
+    padding: 30px 10px;
+    color: white;
+
+    
+    border-right:7px solid;
+    border-image:linear-gradient( 180deg, red, rgb(185, 49, 155) ) ;
+    border-image-slice: 1;
+ }
+ .only-three{
+     text-align: center;
+     color: rgba(0, 0, 0, 0.226);
+ }
+
+.last-back{
+    background-image: url(images/footer-bg.png);
+    
+        
+   }
+
+   footer p{
+    color: gray;
+    text-align: center;
+    font-size: 15px;
+    padding-left:20%;
+    
+}     
+
+
+
+
+
+
